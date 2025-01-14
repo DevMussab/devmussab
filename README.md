@@ -1,16 +1,14 @@
 ## Hi there 👋
+____
+### ME:
+I am Mussab, a boring web developer! I live in KSA (Kingdom of Saudi Arabia), but I am originally from Pakistan. According to my birth date, I am 15 in 2025!
+____
 
-<!--
-**DevMussab/devmussab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **How to reach me:**
+- By devmussab@gmail.com or devmussab@outlook.com!
 
-Here are some ideas to get you started:
+😄 **Pronouns:**
+- He / Him / His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Fun fact:**
+- || You are Fat! || (_jk!_)
